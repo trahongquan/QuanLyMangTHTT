@@ -1,0 +1,159 @@
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.csproj.AssemblyReference.cache
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.csproj.SuggestedBindingRedirects.cache
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormQLNV.resources
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormCTH.resources
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormMain.resources
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.Properties.Resources.resources
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.csproj.GenerateResource.cache
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.csproj.CoreCompileInputs.cache
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\QuanLyMangTHTT.exe.config
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\QuanLyMangTHTT.exe
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\QuanLyMangTHTT.pdb
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.exe
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.pdb
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormChinhSuaCTH.resources
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\FormChinhSuaCTH.resx
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\FormChinhSuaCTH.cs
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\FormChinhSuaCTH.Designer.cs
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\EPPlus.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\EPPlus.Interfaces.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\EPPlus.System.Drawing.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\EPPlus.xml
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.csproj.CopyComplete
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\EnvDTE.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\stdole.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormReport.resources
+D:\Thầy Cường\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormQLThietBi.resources
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\FormChinhSuaCTH.resx
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\FormChinhSuaCTH.cs
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\FormChinhSuaCTH.Designer.cs
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\QuanLyMangTHTT.exe.config
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\QuanLyMangTHTT.exe
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\QuanLyMangTHTT.pdb
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\EPPlus.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\EPPlus.Interfaces.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\EPPlus.System.Drawing.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\System.ComponentModel.Annotations.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\EnvDTE.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\stdole.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\EPPlus.xml
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.csproj.AssemblyReference.cache
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormChinhSuaCTH.resources
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormCTH.resources
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormQLNV.resources
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormMain.resources
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormQLThietBi.resources
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.FormReport.resources
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.Properties.Resources.resources
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.csproj.GenerateResource.cache
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.csproj.CoreCompileInputs.cache
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.csproj.CopyComplete
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.exe
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.pdb
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.Form1.resources
+D:\VB2\3. Ki.III\9. TTCN-77C\QuanLyMangTHTT\obj\Debug\QuanLyMangTHTT.g.resources
